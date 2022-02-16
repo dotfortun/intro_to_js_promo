@@ -1,3 +1,17 @@
+# Running this animation:
+
+In the terminal, enter the following commands
+```
+$ npm install
+$ http-server
+```
+
+The project should spin up, and you will be able to view and modify the animation.
+
+### Original readme below:
+
+----
+
 # p5js-boilerplate
 
 Write Processing just like you would in the native Processing IDE, except it works in your browser and you can put your sketch in the web. The only difference is that you write code in Javascript instead of Java.
