@@ -1,6 +1,8 @@
 # Running this animation:
 
-In the terminal, enter the following commands
+If you are working locally, you can drag the index.html file into a browser to preview it.
+
+If you are working in gitpod: in the terminal, enter the following commands
 ```
 $ npm install
 $ http-server
