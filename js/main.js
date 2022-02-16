@@ -75,7 +75,7 @@ class Video {
   }
 
   fadeIn(fNumber = 0, fRate = 30, speed = 10) {
-    // ToDo.
+    // Did this in Adobe Premiere because of time constraints.
   }
 
   background(fNumber = 0, fRate = 30, speed = 10) {
