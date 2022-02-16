@@ -1,3 +1,7 @@
+# Check this out in the browser:
+
+https://dotfortun.github.io/intro_to_js_promo/
+
 # Running this animation:
 
 If you are working locally, you can drag the index.html file into a browser to preview it.
